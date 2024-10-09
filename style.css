@@ -29,6 +29,7 @@ ul {
     display: flex;
     list-style-type: none;
     gap: 20px;
+    color: #E5E7EB;
 }
 
 .hero {
@@ -54,6 +55,7 @@ button {
     border-radius: 5px;
     border-style: none;
     color: white;
+    font-weight: 600;
 }
 
 #heroimg {
@@ -125,3 +127,40 @@ h2 {
     text-align: right;
     margin-top: -20px;
 }
+
+.boxtwo {
+    display: flex;
+    justify-content: center;
+}
+
+.call {
+    background-color: #3882F6;
+    color: white;
+    width: 60%;
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px 80px;
+    border-radius: 5px;
+    margin: 60px;
+    font-size: 13px;
+}
+
+.bold {
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+
+.order {
+  background-color: transparent;
+  border-color: white;
+  border-style:ridge;
+}
+
+.align {
+    display: flex;
+    align-items: center;
+}
+
+
+
