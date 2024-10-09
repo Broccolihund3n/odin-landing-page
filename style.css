@@ -55,7 +55,7 @@ button {
     border-radius: 5px;
     border-style: none;
     color: white;
-    font-weight: 600;
+    font-weight: ;
 }
 
 #heroimg {
@@ -162,5 +162,12 @@ h2 {
     align-items: center;
 }
 
-
+.footer {
+    background-color: #1F2937;
+    height: 50px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+}
 
