@@ -135,7 +135,7 @@ h2 {
 }
 
 .call {
-    background-color: #3882F6;
+    background-color: rgb(246, 165, 229);
     color: white;
     width: 60%;
     display: flex;
